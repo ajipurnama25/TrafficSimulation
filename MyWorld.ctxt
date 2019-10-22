@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ siap()
+comment4.params=
+comment4.target=int\ getPasti()
+comment5.params=
+comment5.target=void\ tambahMobil()
+comment6.params=
+comment6.target=void\ randomRintangan()
+numComments=7
